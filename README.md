@@ -1,5 +1,5 @@
 ## Hi there 👋
-###My name is Brendan Peery, I really like data science, and I think R is cool 
+### My name is Brendan Peery, I really like data science, and I think R is cool 
 
 <!--
 **p5yzdpjpqm-code/p5yzdpjpqm-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
